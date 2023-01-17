@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Acreate!;A Coder!;">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Acreat!;A Coder!;">
 <h1 align="center">Hi 👋, I'm Acreat</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 <h2>Programmer Humor</h2>
@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Acreated&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at my [repos tab](https://github.com/Acreat?tab=repositories).
+- 👨‍💻 All of my projects are available at my [repos tab](https://github.com/Acreated?tab=repositories).
 
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
