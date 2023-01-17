@@ -22,8 +22,8 @@
 
 <h2 align="left">Stats</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Acreat&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Acreat" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Acreat&theme=dark" alt="Acreat" /></p><br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Acreated&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Acreated" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Acreatee&theme=dark" alt="Acreated" /></p><br>
   </html>
 
 
