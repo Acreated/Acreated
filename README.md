@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-- 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
+- 👨‍💻 All of my projects are available at my [repos tab](https://github.com/Acreat?tab=repositories).
 
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
